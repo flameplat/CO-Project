@@ -9,6 +9,10 @@
 
   The goal: take a 16-byte message and a 16-byte secret key, and produce an     
   encrypted output through 10 rounds of transformation.
+
+  Team: two members
+  you can look at CO project Rquirements.pdf to see requirements
+  and also watch DEMO_compressed.mp4 for a quick demo of the program
                                                                                 
   ---             
   How AES Works (Simplified)
